@@ -4,3 +4,6 @@ For the solutions, I share as well the initial solution, to showcase how it was 
 ## Arrays
 1. Merge Sorted Arrays: Done
 2. Remove Element: Done
+
+# Two Pointers
+1. Valid Palindrome: Done
